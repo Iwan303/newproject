@@ -1,0 +1,15 @@
+H:\56тимп\serv\serv\bin\Debug\serv.exe
+H:\56тимп\serv\serv\bin\Debug\serv.pdb
+H:\56тимп\serv\serv\obj\x86\Debug\serv.exe
+H:\56тимп\serv\serv\obj\x86\Debug\serv.pdb
+H:\56тимп\serv\serv\obj\x86\Debug\serv.csprojResolveAssemblyReference.cache
+G:\56тимп\serv\serv\obj\x86\Debug\serv.exe
+G:\56тимп\serv\serv\obj\x86\Debug\serv.pdb
+G:\56тимп\serv\serv\bin\Debug\serv.exe
+G:\56тимп\serv\serv\bin\Debug\serv.pdb
+G:\56тимп\serv\serv\obj\x86\Debug\serv.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Desktop\serv\serv\obj\x86\Debug\serv.exe
+C:\Users\Alexandr\Desktop\serv\serv\obj\x86\Debug\serv.pdb
+C:\Users\Alexandr\Desktop\serv\serv\bin\Debug\serv.exe
+C:\Users\Alexandr\Desktop\serv\serv\bin\Debug\serv.pdb
+C:\Users\Alexandr\Desktop\serv\serv\obj\x86\Debug\serv.csprojResolveAssemblyReference.cache
